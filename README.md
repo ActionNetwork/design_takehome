@@ -27,7 +27,7 @@ Your goal with this assignment is to translate the following screenshot into HTM
 <img width="980" alt="ab-test" src="https://user-images.githubusercontent.com/1058998/157304518-cc78f657-2680-41c9-b993-52e1c4027338.png">
 
 * Clicking on the rightmost arrow in each row should expand the section and show further contact details for that person (the other buttons/toggles don't need to do anything)
-* The contact details should include email address, physical address, and phone number
+* The contact details should include email address, physical address, and phone number, where denoted by the icons in the screenshot above (some contact info may be missing on a given person)
 * The entire design should be responsive and look good on any screen size from a mobile phone in portrait orientation up to a desktop, with a max width of 960px wide.
 * You should use only HTML, CSS, and jQuery or vanilla javascript to create your design. No frameworks beyond simple CSS resets, please.
 
